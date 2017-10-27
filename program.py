@@ -97,8 +97,8 @@ for i in range(0,numeroDeStrings):
     llenarPrimeraFila(matriz,strings[i],producciones)
     cyk(matriz,producciones)
     if simboloInicial in matriz[0][len(matriz)-1]:
-        print 'Accepted'
+        print('Accepted')
     else:
-        print 'Rejected'
+        print('Rejected')
         
 #Primer Prueba
