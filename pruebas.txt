@@ -1,0 +1,21 @@
+E EW TY LU a b IA IB IZ IO 
+T TY LU a b IA IB IZ IO 
+F LU a b IA IB IZ IO
+I a b IA IB IZ IO
+A a 
+B b 
+Z 0 
+O 1 
+P + 
+M ∗ 
+L ( 
+R ) 
+W PT 
+Y MF 
+U ER
+a+b
+aba/bab
+a0+b1
+(a+b)
++-abba
+0+1
