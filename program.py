@@ -1,4 +1,5 @@
 # coding=utf-8
+# SALMON NO HIZO NADA WE
 #================================================
 # Proyecto Segundo Parcial Matemáticas Computacionales: Cocke–Younger–Kasami Algorithm
 # octubre de 2017
